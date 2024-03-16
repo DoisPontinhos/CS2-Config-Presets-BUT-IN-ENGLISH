@@ -1,5 +1,5 @@
-<h1 align="center">CFG预设 For CS2</h1>
-<h4 align="center">适用于CS2各场景的CFG预设文件</h3>
+<h1 align="center">CFG For CS2</h1>
+<h4 align="center">CFG Preset suitable for various CS2 scenarios</h3>
 
 <div align="center">
 
@@ -12,48 +12,48 @@
 
 </div>
 
-## 简介
+## Intruduction
 
-项目始于2018年8月，这套CFG预设涵盖了几乎所有应用的场景，注释详细：
+The project started in August 2018. This set of CFG presets covers almost all application scenarios, with detailed notes:
 
-| 使用场景          | 文件名称              |
+| scenes to be used          | File Name              |
 |:-------------:|:-----------------:|
-| 游戏设置          | `auto.cfg`        |
-| 准星参数（使用跳投）    | `crosshair.cfg`   |
-| 跑图指令          | `practice.cfg`    |
-| 本地solo        | `solo.cfg`        |
-| 观看demo        | `demo.cfg`        |
+| Game Settings          | `auto.cfg`        |
+| Crosshair parameters (using jump throw)    | `crosshair.cfg`   |
+| Practice Settings          | `practice.cfg`    |
+| Solo        | `solo.cfg`        |
+| Demos        | `demo.cfg`        |
 
-所有的参数都经过详细的测试，按键位置仔细斟酌，确保每个功能的按键都在它用起来最舒服的位置。适用于对CS2指令不太熟悉，想要到手即用，节省时间的玩家，亦或是想要参考他人的代码来丰富自己CFG的玩家。
+All parameters have been tested in detail, and the key positions have been carefully considered to ensure that the keys for each function are in the most comfortable position for use. It is suitable for players who are not familiar with CS2 instructions and want to use them immediately to save time, or players who want to refer to other people's codes to enrich their own CFG.
 
-下载这套预设之后，根据使用说明，备份设置、简单修改参数、放在正确的位置、设置启动项后即可享受预设带来的便利，一般整个过程不超过30分钟。
+After downloading this set of presets, according to the instructions for use, back up the settings, simply modify the parameters, put it in the correct location, and set the startup items to enjoy the convenience brought by the presets. Generally, the entire process does not exceed 30 minutes.
 
-## 下载
+## Download
 
 [Releases](https://github.com/Purple-CSGO/CS2-Config-Presets/releases)
 
-## 用法
+## Usage
 
-见 [使用文档](https://config.upup.cool/v2/)
+See [usage documentation](https://config.upup.cool/v2/)
 
-CS2 CFG放在游戏目录 `game\csgo\cfg`，如：
+CS2 CFG is placed in the game directory `game\csgo\cfg`，like：
 
 ```
 ...steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
 
-## 翻译
+## Translation
 
-如果你想参与翻译工作，将预设翻译为其他语言，请提交PR，或在[issues](https://github.com/Purple-CSGO/CS2-Config-Presets/issues)中提出。
+If you would like to participate in the translation work and translate the presets into other languages, please submit a PR or raise it in [issues](https://github.com/Purple-CSGO/CS2-Config-Presets/issues).
 
-## 捐赠
+## Donate
 
-捐赠请备注昵称和`CFG捐赠`以便区分：
+Please note your nickname and `CFG Donation` when donating to make it easier to distinguish:
 
-- 支付宝：
+- Alipay:
 
 <img src="./img/支付宝.png" alt="Alipay" style="zoom: 80%;" />
 
-- 微信：
+- WeChat：
 
 <img src="./img/微信.png" alt="Wechat" style="zoom:80%;" />
